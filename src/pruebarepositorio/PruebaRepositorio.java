@@ -14,7 +14,7 @@ public class PruebaRepositorio {
         // Meotodo main
         Scanner dato = new Scanner(System.in);
      int num1,num2;
-     
+     System.out.println("Hola ");
         
         
     }
